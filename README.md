@@ -13,7 +13,7 @@
 
 ## 📚 Sobre mim
 
-Sou apaixonado por desenvolvimento de software e sempre busco aprender novas tecnologias para aprimorar minhas habilidades. Atualmente, estou focado em aprimorar meus conhecimentos em C#
+Sou apaixonado por desenvolvimento de software e sempre busco aprender novas tecnologias para aprimorar minhas habilidades. Atualmente, estou focado em aprimorar meus conhecimentos em C#, Mas tenho conhecimento basico em java, HTML e CSS
 
 ---
 
